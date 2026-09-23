@@ -1,0 +1,24 @@
+Nuevos:
+- Blue Archive Halo
+- Infinity Buttons
+- Underlay
+- Casual Swing
+- Armor Statues
+- Sword Blocking Mechanics
+- FindMe
+
+Actualizados:
+- NaN
+
+Eliminados:
+- Status Effect Bars Reforged
+- Blood N' Particles Mod
+- GraveStone Mod
+- Glow Sticks
+- Create Realism
+- Gravestone x Curios API Compat
+- Memory Settings[Neo/Forge/Fabric]
+- Nirvana
+- Plushie Buddies
+- Walkie-Talkie
+- Create: Sound of Steam

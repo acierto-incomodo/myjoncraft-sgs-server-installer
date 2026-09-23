@@ -1,0 +1,8 @@
+
+[General]
+	#The cubic radius of the Cobblemon Torch in each direction with the torch at the center
+	#Range: > 0
+	cobblemonTorchRadius = 128
+	#Print entity spawn checks to the debug log
+	logSpawnChecks = false
+

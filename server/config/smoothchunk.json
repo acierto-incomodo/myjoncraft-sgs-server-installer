@@ -1,0 +1,18 @@
+{
+  "chunkSaveDelay": {
+    "desc:": "Tiempo de espera antes de que un chunk se guarde en el disco. Por defecto: 300 segundos",
+    "chunkSaveDelay": 300
+  },
+  "chunkUnloadLimit": {
+    "desc:": "Cantidad máxima de chunks que se descargan por tick. Por defecto: 20, vanilla: 200",
+    "chunkUnloadLimit": 20
+  },
+  "disableProtoSave": {
+    "desc:": "Desactiva el guardado de protochunks (chunks que no están completamente generados) para reducir el lag al guardar. Por defecto: true",
+    "disableProtoSave": true
+  },
+  "debugLogging": {
+    "desc:": "Activa logs de depuración sobre cuántos chunks se guardan por tick. Por defecto: false",
+    "debugLogging": false
+  }
+}

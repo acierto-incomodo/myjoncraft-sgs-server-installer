@@ -1,0 +1,11 @@
+
+["Scaling Animations Config"]
+	#Enable/disable scaling animations
+	enabled = true
+	#Animation duration in milliseconds (100-2000)
+	#Range: 100 ~ 2000
+	animationDuration = 400
+	#Starting scale of animation (0.1-0.9)
+	#Range: 0.1 ~ 0.9
+	startScale = 0.6528971195220947
+

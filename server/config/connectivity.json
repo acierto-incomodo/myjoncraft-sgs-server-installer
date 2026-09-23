@@ -1,0 +1,40 @@
+{
+  "disableLoginLimits": {
+    "desc:": "¿Se deben desactivar los límites de tamaño de paquetes al iniciar sesión? Error: (IOException(\"El payload no puede ser mayor de 1048576 bytes\")) por defecto: true",
+    "disableLoginLimits": true
+  },
+  "disablePacketLimits": {
+    "desc:": "¿Se deben desactivar los límites de tamaño de paquetes durante la partida? Error: (Paquete mal comprimido) por defecto: true",
+    "disablePacketLimits": true
+  },
+  "disableChatVerificationDisconnect": {
+    "desc:": "(Solo cliente) Evita que los jugadores se desconecten por problemas al verificar mensajes del chat (activa debugPrintMessages para ver el mensaje que causa problemas). Por defecto: true",
+    "disableChatVerificationDisconnect": true
+  },
+  "debugPrintMessages": {
+    "desc:": "Activa logs adicionales de depuración para errores de red. Por defecto: false",
+    "debugPrintMessages": false
+  },
+  "logintimeout": {
+    "desc:": "Tiempo máximo de espera para iniciar sesión en segundos. Por defecto = 120",
+    "logintimeout": 120
+  },
+  "disconnectTimeout": {
+    "desc:": "Tiempo de espera en el juego antes de desconectar a un jugador. Por defecto = 60 segundos",
+    "disconnectTimeout": 60
+  },
+  "packetHistoryMinutes": {
+    "desc:": "Cantidad de minutos que se guarda el historial de paquetes de red. Por defecto = 5 minutos",
+    "packetHistoryMinutes": 5
+  },
+  "malformedtraffic": {
+    "desc:": "Detección y bloqueo de tráfico malformado y/o malicioso",
+    "enabled": true,
+    "proxies:": "Añade la IP de tu proxy a la lista blanca si usas uno (por ejemplo, Velocity) para evitar que se bloquee. Formato: [\"127.0.0.1\", \"128.0.0.1\"] sin las \\",
+    "proxywhitelist": []
+  },
+  "showFullResourceLocationException": {
+    "desc:": "Activa para ver el log completo de errores relacionados con recursos. Por defecto = false",
+    "showFullResourceLocationException": false
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "worldgen": {
+    "_comment_00 [default: Worldgen controls for Nether biomes. Edit values, then restart world.]": "Worldgen controls for Nether biomes. Edit values, then restart world.",
+    "_comment_global_size_multiplier [default: global_size_multiplier: scales biome size globally. Default: 1.0. Possible: 0.05..16.0]": "global_size_multiplier: scales biome size globally. Default: 1.0. Possible: 0.05..16.0",
+    "_comment_global_frequency_multiplier [default: global_frequency_multiplier: scales biome spawn frequency globally. Default: 1.0. Possible: 0.0..32.0]": "global_frequency_multiplier: scales biome spawn frequency globally. Default: 1.0. Possible: 0.0..32.0",
+    "global_size_multiplier [default: 1.0]": 1.0,
+    "global_frequency_multiplier [default: 1.0]": 1.0
+  },
+  "betternether": {
+    "bone_reef": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "crimson_glowing_woods": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "crimson_pinewood": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "flooded_deltas": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "gravel_desert": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "magma_land": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_grasslands": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_jungle": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_mushroom_forest": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_mushroom_forest_edge": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_swampland": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "nether_swampland_terraces": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "old_fungiwoods": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "old_swampland": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "old_warped_woods": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "poor_nether_grasslands": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "soul_plain": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "sulfuric_bone_reef": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "upside_down_forest": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "upside_down_forest_cleared": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "wart_forest": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "wart_forest_edge": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for Nether.]": "Per-biome worldgen controls for Nether.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    }
+  }
+}

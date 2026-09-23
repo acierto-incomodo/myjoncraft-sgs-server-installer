@@ -1,0 +1,52 @@
+{
+  "minimumClient": {
+    "desc:": "Establece el umbral mínimo de advertencia de memoria para el cliente en MB. Elige el valor más bajo posible que mantenga el pack jugable. por defecto: 2500, mín 2500, máx 25000",
+    "minimumClient": 6144
+  },
+  "maximumClient": {
+    "desc:": "Establece el umbral máximo de advertencia de memoria para el cliente en MB. Elige un máximo generoso con algo adicional sobre lo requerido, ej. si la memoria recomendada es 6000MB, establece esto en ~8000MB",
+    "maximumClient": 32768
+  },
+  "minimumServer": {
+    "desc:": "Establece el umbral mínimo de advertencia de memoria para el servidor en MB. Elige el valor más bajo posible que mantenga el pack jugable. por defecto: 2500, mín 2500, máx 25000",
+    "minimumServer": 2048
+  },
+  "maximumServer": {
+    "desc:": "Establece el umbral máximo de advertencia de memoria para el servidor en MB. Elige un máximo generoso con algo adicional sobre lo requerido, ej. si lo recomendado es 6000MB, establece esto en ~8000MB",
+    "maximumServer": 32768
+  },
+  "disableWarnings": {
+    "desc:": "Desactiva las advertencias de memoria, por defecto: false",
+    "disableWarnings": false
+  },
+  "earlyWarningMinimumMemory": {
+    "desc:": "Establece el mensaje utilizado para la pantalla de advertencia temprana, notificando al usuario que la memoria establecida es demasiado baja. Puedes usar %d como marcador de posición para estos valores, en orden: memoria actual, mínima, memoria recomendada",
+    "earlyWarningMinimumMemory": "Has asignado menos memoria (%d MB) del mínimo recomendado para este pack: %d MB.\nLa cantidad sugerida para tu sistema es: %d MB.\n Haz clic en Aceptar para visitar una wiki con instrucciones sobre cómo asignar más memoria, o en Cancelar para ignorar esta advertencia."
+  },
+  "howtolink": {
+    "desc:": "Establece el enlace utilizado para guiar a los jugadores a un sitio web con instrucciones para cambiar la asignación de memoria",
+    "howtolink": "https://apexminecrafthosting.com/how-to-allocate-more-ram/"
+  },
+  "warningTolerance": {
+    "desc:": "Establece qué porcentaje se permite que la memoria se desvíe de lo recomendado para el sistema antes de advertir al respecto, por defecto: 30, máx 100",
+    "warningTolerance": 30
+  },
+  "recommendedMemory": {
+    "desc:": "Establece los valores de memoria recomendados según la memoria del sistema en MB. [\"memoria del sistema:recomendada\"]",
+    "memory values": [
+      "3000:2000",
+      "4000:3000",
+      "5000:3500",
+      "6000:3700",
+      "7000:4000",
+      "8000:4200",
+      "10000:5000",
+      "12000:6000",
+      "16000:7000",
+      "20000:8000",
+      "24000:9000",
+      "32000:9500",
+      "64000:10000"
+    ]
+  }
+}

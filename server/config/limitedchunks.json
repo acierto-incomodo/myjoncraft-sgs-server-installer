@@ -1,0 +1,14 @@
+{
+  "chunkunloadnoplayer": {
+    "desc:": "Cuántos minutos los chunks cargados permanecen activos después de que el jugador se desconecte. Por defecto: 10, mínimo 0, máximo 2000",
+    "chunkunloadnoplayer": 10
+  },
+  "debugLog": {
+    "desc:": "Muestra mensajes en el log indicando qué chunks (tickets) se descargan y dónde. Por defecto: false",
+    "debugLog": false
+  },
+  "excludedtickets": {
+    "desc:": "Lista de tipos de tickets/chunkload excluidos (dependen de cada mod). Ejemplo de formato: [\"mekanism\", \"player\"]",
+    "excludedtickets": []
+  }
+}

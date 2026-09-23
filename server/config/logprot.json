@@ -1,0 +1,22 @@
+{
+  "invulTime": {
+    "desc:": "Tiempo máximo en ticks durante el cual el jugador es invulnerable al entrar. 20 ticks = 1 segundo. Por defecto son 50 segundos (1000 ticks)",
+    "invulTime": 1000
+  },
+  "ignoreFallDamage": {
+    "desc:": "Permite que el daño por caída ignore la protección. Por defecto: true",
+    "ignoreFallDamage": true
+  },
+  "debugOutput": {
+    "desc:": "Activa mensajes de depuración en el log. Por defecto: false",
+    "debugOutput": false
+  },
+  "dimensionprotection": {
+    "desc:": "Activa la protección también al cambiar de dimensión. Por defecto: true",
+    "dimensionprotection": true
+  },
+  "respawnprotection": {
+    "desc:": "Activa la protección también al reaparecer. Por defecto: true",
+    "respawnprotection": true
+  }
+}

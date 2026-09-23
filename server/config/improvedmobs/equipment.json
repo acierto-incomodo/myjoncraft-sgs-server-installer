@@ -1,0 +1,1512 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aether:candy_cane_sword": [
+      25081,
+      0.0081
+    ],
+    "aether:flaming_sword": [
+      24219,
+      1.0088911
+    ],
+    "aether:gravitite_axe": [
+      22357,
+      5.022479
+    ],
+    "aether:gravitite_sword": [
+      22419,
+      4.889481
+    ],
+    "aether:hammer_of_kingbdogz": [
+      24672,
+      0.049
+    ],
+    "aether:holy_sword": [
+      24219,
+      1.0088911
+    ],
+    "aether:holystone_axe": [
+      24788,
+      0.0374
+    ],
+    "aether:holystone_sword": [
+      24896,
+      0.026599998
+    ],
+    "aether:lightning_sword": [
+      24219,
+      1.0088911
+    ],
+    "aether:phoenix_bow": [
+      22594,
+      4.508568
+    ],
+    "aether:pig_slayer": [
+      24757,
+      0.040499996
+    ],
+    "aether:skyroot_axe": [
+      24972,
+      0.019
+    ],
+    "aether:skyroot_sword": [
+      25035,
+      0.0127
+    ],
+    "aether:valkyrie_axe": [
+      22357,
+      5.022479
+    ],
+    "aether:valkyrie_lance": [
+      22419,
+      4.889481
+    ],
+    "aether:vampire_blade": [
+      21620,
+      6.5723376
+    ],
+    "aether:zanite_axe": [
+      24585,
+      0.51635593
+    ],
+    "aether:zanite_sword": [
+      24672,
+      0.049
+    ],
+    "alexscaves:desolate_dagger": [
+      22482,
+      4.753436
+    ],
+    "alexsmobs:skelewag_sword": [
+      24396,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      24693,
+      0.0469
+    ],
+    "betterend:aeternium_axe": [
+      21220,
+      7.405473
+    ],
+    "betterend:aeternium_sword": [
+      21294,
+      7.2514286
+    ],
+    "betterend:terminite_axe": [
+      22882,
+      3.8416624
+    ],
+    "betterend:terminite_sword": [
+      22981,
+      3.579698
+    ],
+    "betterend:thallasium_axe": [
+      24483,
+      0.66491455
+    ],
+    "betterend:thallasium_sword": [
+      24564,
+      0.54957026
+    ],
+    "betternether:cincinnasite_axe": [
+      24122,
+      1.1332608
+    ],
+    "betternether:cincinnasite_axe_diamond": [
+      21482,
+      6.859946
+    ],
+    "betternether:cincinnasite_sword": [
+      24215,
+      1.0140219
+    ],
+    "betternether:cincinnasite_sword_diamond": [
+      21550,
+      6.7182612
+    ],
+    "betternether:flaming_ruby_axe": [
+      20063,
+      9.81733
+    ],
+    "betternether:flaming_ruby_sword": [
+      20110,
+      9.719118
+    ],
+    "betternether:nether_ruby_axe": [
+      20654,
+      8.584065
+    ],
+    "betternether:nether_ruby_sword": [
+      20717,
+      8.452794
+    ],
+    "born_in_chaos_v1:birch_branches": [
+      24638,
+      0.40784094
+    ],
+    "born_in_chaos_v1:carrot_sword": [
+      24065,
+      1.2063804
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      23907,
+      1.4096019
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      17966,
+      14.226674
+    ],
+    "born_in_chaos_v1:frostbitten_blade": [
+      23227,
+      2.2976365
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      23103,
+      3.1486528
+    ],
+    "born_in_chaos_v1:icy_sweetness": [
+      21697,
+      6.411711
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      23227,
+      2.2976365
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      23820,
+      1.5219555
+    ],
+    "born_in_chaos_v1:nut_hammer": [
+      24693,
+      0.0469
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      23202,
+      2.330707
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      24363,
+      0.8234185
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      22042,
+      5.689535
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      23907,
+      1.4096019
+    ],
+    "born_in_chaos_v1:soulbane": [
+      19826,
+      10.312961
+    ],
+    "born_in_chaos_v1:spider_bite_sword": [
+      23227,
+      2.2976365
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      24268,
+      0.94598794
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      16,
+      53.470917
+    ],
+    "born_in_chaos_v1:sweet_axe": [
+      23990,
+      1.3027282
+    ],
+    "born_in_chaos_v1:sweet_sword": [
+      24065,
+      1.2063804
+    ],
+    "born_in_chaos_v1:trident_hayfork": [
+      24551,
+      0.56912816
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      24514,
+      0.6222344
+    ],
+    "create:cardboard_sword": [
+      25097,
+      0.0064999997
+    ],
+    "create_additions_synthetics:gilded_axe": [
+      19764,
+      10.442728
+    ],
+    "create_additions_synthetics:gilded_sword": [
+      19833,
+      10.298311
+    ],
+    "create_things_and_misc:brass_knife": [
+      24948,
+      0.021399999
+    ],
+    "create_things_and_misc:copper_knife": [
+      24965,
+      0.019699998
+    ],
+    "create_things_and_misc:zinc_knife": [
+      24965,
+      0.019699998
+    ],
+    "hybrid-aquatic:coral_axe": [
+      24710,
+      0.045199998
+    ],
+    "hybrid-aquatic:coral_blade": [
+      24896,
+      0.026599998
+    ],
+    "hybrid-aquatic:seashell_axe": [
+      24788,
+      0.0374
+    ],
+    "hybrid-aquatic:seashell_spear": [
+      24913,
+      0.024899999
+    ],
+    "minecraft:bow": [
+      22594,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      22888,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      22357,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      22419,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      23562,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      25018,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      25081,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      24585,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      24672,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      23662,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      21521,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      21591,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      24612,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      23662,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      24788,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      24896,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      23462,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      22662,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      24972,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      25035,
+      0.0127
+    ],
+    "outer_end:sinker_dagger": [
+      24672,
+      0.049
+    ]
+  },
+  "OFFHAND": {
+    "alexscaves:resistor_shield": [
+      275,
+      4.9045377
+    ],
+    "minecraft:ender_pearl": [
+      1925,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      1897,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      1525,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      1603,
+      1.6255897
+    ],
+    "outer_end:shulker_shield": [
+      723,
+      3.896143
+    ]
+  },
+  "FEET": {
+    "aether:gravitite_boots": [
+      1114,
+      2.231581
+    ],
+    "aether:neptune_boots": [
+      1944,
+      1.1524966
+    ],
+    "aether:obsidian_boots": [
+      1052,
+      2.3135066
+    ],
+    "aether:phoenix_boots": [
+      1114,
+      2.231581
+    ],
+    "aether:sentry_boots": [
+      1949,
+      1.1460843
+    ],
+    "aether:valkyrie_boots": [
+      1114,
+      2.231581
+    ],
+    "aether:zanite_boots": [
+      1949,
+      1.1460843
+    ],
+    "alexscaves:diving_boots": [
+      1971,
+      1.1178746
+    ],
+    "alexscaves:gingerbread_boots": [
+      2225,
+      0.79089624
+    ],
+    "alexscaves:hazmat_boots": [
+      2172,
+      0.85967726
+    ],
+    "alexscaves:rainbounce_boots": [
+      2612,
+      0.0387
+    ],
+    "alexsmobs:flying_fish_boots": [
+      2858,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      2296,
+      0.6972618
+    ],
+    "betterend:aeternium_boots": [
+      35,
+      5.360601
+    ],
+    "betterend:crystalite_boots": [
+      973,
+      2.9321702
+    ],
+    "betterend:terminite_boots": [
+      1149,
+      2.1854107
+    ],
+    "betterend:thallasium_boots": [
+      2233,
+      0.7804518
+    ],
+    "betternether:cincinnasite_boots": [
+      1626,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_boots": [
+      736,
+      3.798844
+    ],
+    "betternether:nether_ruby_boots": [
+      1297,
+      1.9908147
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      43,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      1245,
+      2.0590668
+    ],
+    "create:cardboard_boots": [
+      2782,
+      0.021699999
+    ],
+    "create:copper_diving_boots": [
+      2425,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      1364,
+      1.9030677
+    ],
+    "create_things_and_misc:sticky_boots_boots": [
+      1370,
+      1.8952204
+    ],
+    "faz_roleplay_plus:blue_shoes_boots": [
+      2329,
+      0.6526449
+    ],
+    "faz_roleplay_plus:green_shoes_boots": [
+      2329,
+      0.6526449
+    ],
+    "faz_roleplay_plus:red_shoes_boots": [
+      2329,
+      0.6526449
+    ],
+    "hybrid-aquatic:diving_boots": [
+      2173,
+      0.8583848
+    ],
+    "minecraft:chainmail_boots": [
+      2407,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1491,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2473,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2159,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2755,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1364,
+      1.9030677
+    ],
+    "outer_end:cobalt_crystal_boots": [
+      912,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_boots": [
+      912,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_boots": [
+      912,
+      3.2725234
+    ]
+  },
+  "LEGS": {
+    "aether:gravitite_leggings": [
+      1133,
+      2.231581
+    ],
+    "aether:neptune_leggings": [
+      1963,
+      1.1524966
+    ],
+    "aether:obsidian_leggings": [
+      1071,
+      2.3135066
+    ],
+    "aether:phoenix_leggings": [
+      1133,
+      2.231581
+    ],
+    "aether:valkyrie_leggings": [
+      1133,
+      2.231581
+    ],
+    "aether:zanite_leggings": [
+      1968,
+      1.1460843
+    ],
+    "alexscaves:diving_leggings": [
+      1962,
+      1.1537791
+    ],
+    "alexscaves:gingerbread_leggings": [
+      2231,
+      0.8078281
+    ],
+    "alexscaves:hazmat_leggings": [
+      2163,
+      0.89580816
+    ],
+    "alexscaves:primordial_pants": [
+      2253,
+      0.7791448
+    ],
+    "alexsmobs:centipede_leggings": [
+      712,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1947,
+      1.173019
+    ],
+    "betterend:aeternium_leggings": [
+      54,
+      5.360601
+    ],
+    "betterend:crystalite_leggings": [
+      992,
+      2.9321702
+    ],
+    "betterend:terminite_leggings": [
+      1168,
+      2.1854107
+    ],
+    "betterend:thallasium_leggings": [
+      2252,
+      0.7804518
+    ],
+    "betternether:cincinnasite_leggings": [
+      1645,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_leggings": [
+      755,
+      3.798844
+    ],
+    "betternether:nether_ruby_leggings": [
+      1316,
+      1.9908147
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      62,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      1264,
+      2.0590668
+    ],
+    "create:cardboard_leggings": [
+      2801,
+      0.021699999
+    ],
+    "faz_roleplay_plus:alien_abduction_cosplay_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:astronaut_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:black_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:blue_sweater_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:chef_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:doctor_outfit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:firefighter_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:gray_hoodie_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:hazmat_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:jeans_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:judge_cosplay_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:mummy_costume_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:nun_cosplay_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:pink_jacket_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:plumber_cosplay_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:policeman_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:priest_robes_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:prisoner_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:santa_costume_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:soldier_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:squid_cosplay_leggings": [
+      2348,
+      0.6526449
+    ],
+    "faz_roleplay_plus:white_suit_leggings": [
+      2348,
+      0.6526449
+    ],
+    "hybrid-aquatic:diving_leggings": [
+      2192,
+      0.8583848
+    ],
+    "minecraft:chainmail_leggings": [
+      2426,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1510,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2492,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2178,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2774,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1383,
+      1.9030677
+    ],
+    "outer_end:cobalt_crystal_leggings": [
+      931,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_leggings": [
+      931,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_leggings": [
+      931,
+      3.2725234
+    ]
+  },
+  "CHEST": {
+    "aether:gravitite_chestplate": [
+      1257,
+      2.231581
+    ],
+    "aether:neptune_chestplate": [
+      2087,
+      1.1524966
+    ],
+    "aether:obsidian_chestplate": [
+      1195,
+      2.3135066
+    ],
+    "aether:phoenix_chestplate": [
+      1257,
+      2.231581
+    ],
+    "aether:valkyrie_chestplate": [
+      1257,
+      2.231581
+    ],
+    "aether:zanite_chestplate": [
+      2092,
+      1.1460843
+    ],
+    "alexscaves:cloak_of_darkness": [
+      2439,
+      0.6972618
+    ],
+    "alexscaves:diving_chestplate": [
+      2102,
+      1.1332608
+    ],
+    "alexscaves:gingerbread_chestplate": [
+      2363,
+      0.7974141
+    ],
+    "alexscaves:hazmat_chestplate": [
+      2304,
+      0.87388456
+    ],
+    "alexscaves:primordial_tunic": [
+      2394,
+      0.7568712
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      1860,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      1939,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      2287,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      2510,
+      0.59963983
+    ],
+    "betterend:aeternium_chestplate": [
+      178,
+      5.360601
+    ],
+    "betterend:crystalite_chestplate": [
+      1116,
+      2.9321702
+    ],
+    "betterend:elytra_armored": [
+      54,
+      5.62223
+    ],
+    "betterend:elytra_crystalite": [
+      1038,
+      3.336733
+    ],
+    "betterend:terminite_chestplate": [
+      1292,
+      2.1854107
+    ],
+    "betterend:thallasium_chestplate": [
+      2376,
+      0.7804518
+    ],
+    "betternether:cincinnasite_chestplate": [
+      1769,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_chestplate": [
+      879,
+      3.798844
+    ],
+    "betternether:nether_ruby_chestplate": [
+      1440,
+      1.9908147
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      186,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      1388,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      2552,
+      0.53719383
+    ],
+    "create:cardboard_chestplate": [
+      2925,
+      0.021699999
+    ],
+    "create:copper_backtank": [
+      2568,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      1507,
+      1.9030677
+    ],
+    "faz_roleplay_plus:alien_abduction_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:astronaut_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:bikini_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:black_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:blue_sweater_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:builder_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:camo_hoodie_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:caveman_robes_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:chef_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:doctor_outfit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:dress_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:firefighter_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:flower_shirt_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:football_jacket_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:football_shirt_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:graduation_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:gray_hoodie_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:green_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:hazmat_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:hot_dog_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:jeans_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:judge_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:king_costume_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:leather_jacket_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:light_blue_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:maiden_dress_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:mummy_costume_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:nun_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:orange_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:party_clothes_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:pink_jacket_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:plumber_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:policeman_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:priest_robes_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:prisoner_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:purple_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:red_hoodie_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:red_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:santa_costume_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:soldier_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:squid_cosplay_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:summer_shirt_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:tetris_shirt_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:ugly_sweater_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:white_shirt_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:white_suit_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "faz_roleplay_plus:yellow_kimono_chestplate": [
+      2472,
+      0.6526449
+    ],
+    "hybrid-aquatic:diving_suit": [
+      2316,
+      0.8583848
+    ],
+    "hybrid-aquatic:eel_scarf": [
+      2898,
+      0.0244
+    ],
+    "hybrid-aquatic:manglerfish_fin": [
+      2898,
+      0.0244
+    ],
+    "hybrid-aquatic:nautilus_pauldrons": [
+      2443,
+      0.69190335
+    ],
+    "hybrid-aquatic:turtle_chestplate": [
+      1854,
+      1.4521773
+    ],
+    "minecraft:chainmail_chestplate": [
+      2550,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1634,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2616,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2302,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2898,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1507,
+      1.9030677
+    ],
+    "outer_end:cobalt_crystal_chestplate": [
+      1055,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_chestplate": [
+      1055,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_chestplate": [
+      1055,
+      3.2725234
+    ],
+    "quark:backpack": [
+      2898,
+      0.0244
+    ]
+  },
+  "HEAD": {
+    "aether:gravitite_helmet": [
+      1099,
+      2.231581
+    ],
+    "aether:neptune_helmet": [
+      1929,
+      1.1524966
+    ],
+    "aether:obsidian_helmet": [
+      1037,
+      2.3135066
+    ],
+    "aether:phoenix_helmet": [
+      1099,
+      2.231581
+    ],
+    "aether:valkyrie_helmet": [
+      1099,
+      2.231581
+    ],
+    "aether:zanite_helmet": [
+      1934,
+      1.1460843
+    ],
+    "alexscaves:diving_helmet": [
+      1913,
+      1.173019
+    ],
+    "alexscaves:gingerbread_helmet": [
+      2190,
+      0.8169267
+    ],
+    "alexscaves:hazmat_mask": [
+      2115,
+      0.91383743
+    ],
+    "alexscaves:hood_of_darkness": [
+      2257,
+      0.7291897
+    ],
+    "alexscaves:primordial_helmet": [
+      2205,
+      0.7974141
+    ],
+    "alexsmobs:fedora": [
+      2545,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      2239,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      2332,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      2230,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2545,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2516,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      1980,
+      1.0871058
+    ],
+    "betterend:aeternium_helmet": [
+      20,
+      5.360601
+    ],
+    "betterend:crystalite_helmet": [
+      958,
+      2.9321702
+    ],
+    "betterend:terminite_helmet": [
+      1134,
+      2.1854107
+    ],
+    "betterend:thallasium_helmet": [
+      2218,
+      0.7804518
+    ],
+    "betternether:cincinnasite_helmet": [
+      1611,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_helmet": [
+      721,
+      3.798844
+    ],
+    "betternether:nether_ruby_helmet": [
+      1282,
+      1.9908147
+    ],
+    "born_in_chaos_v1:damned_demomans_hat_helmet": [
+      2683,
+      0.0301
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      28,
+      5.3436694
+    ],
+    "born_in_chaos_v1:killer_rabbit_ears_helmet": [
+      2703,
+      0.028099999
+    ],
+    "born_in_chaos_v1:lord_pumpkinheads_hat_helmet": [
+      722,
+      3.7963035
+    ],
+    "born_in_chaos_v1:missionary_hat_helmet": [
+      2578,
+      0.040599998
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      1230,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      2394,
+      0.53719383
+    ],
+    "born_in_chaos_v1:spiritual_guide_sombrero_helmet": [
+      2603,
+      0.038099997
+    ],
+    "create:cardboard_helmet": [
+      2767,
+      0.021699999
+    ],
+    "create:copper_diving_helmet": [
+      2410,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      1349,
+      1.9030677
+    ],
+    "faz_roleplay_plus:astronaut_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:builder_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:bunny_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:chef_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:chicken_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:clown_hair_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:creeper_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:eyepatch_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:firefighter_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:fox_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:graduation_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:hacker_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:hazmat_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:judge_cosplay_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:king_costume_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:mummy_costume_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:nun_cosplay_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:party_clothes_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:plumber_cosplay_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:policeman_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:pumpkin_mask_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:santa_costume_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:soldier_suit_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:squid_cosplay_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:sunglasses_helmet": [
+      2314,
+      0.6526449
+    ],
+    "faz_roleplay_plus:technoblade_hat_helmet": [
+      2314,
+      0.6526449
+    ],
+    "hybrid-aquatic:diving_helmet": [
+      2158,
+      0.8583848
+    ],
+    "hybrid-aquatic:manglerfish_lure": [
+      2740,
+      0.0244
+    ],
+    "hybrid-aquatic:moon_jellyfish_hat": [
+      2740,
+      0.0244
+    ],
+    "hybrid-aquatic:nautilus_helmet": [
+      2285,
+      0.69190335
+    ],
+    "minecraft:chainmail_helmet": [
+      2392,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1476,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2458,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2144,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2740,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1349,
+      1.9030677
+    ],
+    "minecraft:shulker_shell": [
+      2903,
+      0.0081
+    ],
+    "minecraft:turtle_helmet": [
+      2088,
+      0.948558
+    ],
+    "outer_end:cobalt_crystal_helmet": [
+      897,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_helmet": [
+      897,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_helmet": [
+      897,
+      3.2725234
+    ],
+    "quark:forgotten_hat": [
+      2740,
+      0.0244
+    ],
+    "railways:black_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:blue_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:brown_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:cyan_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:gray_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:green_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:light_blue_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:light_gray_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:lime_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:magenta_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:orange_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:pink_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:purple_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:red_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:white_conductor_cap": [
+      2354,
+      0.59678036
+    ],
+    "railways:yellow_conductor_cap": [
+      2354,
+      0.59678036
+    ]
+  }
+}
